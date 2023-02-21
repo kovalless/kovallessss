@@ -1,0 +1,7 @@
+public class Hare extends Animal {
+    String name;
+
+public void Talk () {
+    System.out.println("OOO"+name);
+    }
+}
